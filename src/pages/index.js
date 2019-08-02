@@ -21,9 +21,9 @@ const IndexPage = () => (
     <header className="masthead">
       <div className="container d-flex h-100 align-items-center">
         <div className="mx-auto text-center">
-          <h1 className="mx-auto my-0 text-uppercase">{config.heading}</h1>
+          <h1 className="mx-auto my-0">Gatsby HTML5Up</h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
-            {config.subHeading}
+          <a href="https://github.com/app-generator/gatsby-html5up-grayscale">Open-source</a> app built with GatsbyJS on top of Grayscale design
           </h2>
           <Scroll type="id" element="about">
             <a href="#about" className="btn btn-primary">

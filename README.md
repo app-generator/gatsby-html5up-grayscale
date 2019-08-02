@@ -1,6 +1,6 @@
 # [GatsbyJS Grayscale](https://gatsby-html5up-grayscale.appseed.us)
 
-Open-source app built with GatsbyJS on top of HTML5Up Aerial design. 
+Open-source app built with GatsbyJS on top of Grayscale design. 
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) project.**
 
 <br />

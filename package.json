@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-grayscale",
+  "name": "gatsby-html5up-grayscale",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Grayscale by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-grayscale.git"
+    "url": "git+https://github.com/app-generator/gatsby-html5up-grayscale.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Sm0ke",
+    "email": "support@appseed.us"
   },
   "dependencies": {
     "ftp-deploy": "^2.3.3",
@@ -47,7 +47,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-grayscale/issues"
+    "url": "https://github.com/app-generator/gatsby-html5up-grayscale/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-grayscale#readme"
+  "homepage": "https://gatsby-html5up-grayscale.appseed.us"
 }

@@ -16,25 +16,15 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-linkedin-in',
-      name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: 'https://github.com/app-generator/gatsby-html5up-grayscale',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook-f',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
+      url: 'https://twitter.com/webappseed',
+    }
   ],
-  email: 'anubhav.srivastava00@gmail.com',
+  email: 'support@appseed.us',
   phone: '000-00000',
   address: '305 Del Sol, Sunnyvale, CA',
 };
