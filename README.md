@@ -1,4 +1,4 @@
-# [GatsbyJS Grayscale](https://gatsby-html5up-grayscale.appseed.us)
+# [GatsbyJS Grayscale](https://appseed.us/apps/gatsbyjs/gatsby-html5up-grayscale)
 
 Open-source app built with GatsbyJS on top of Grayscale design. 
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) project.**
@@ -6,6 +6,12 @@ Open-source app built with GatsbyJS on top of Grayscale design.
 <br />
 
 ![GatsbyJS Grayscale - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-grayscale-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Grayscale](https://gatsby-html5up-grayscale.appseed.us) - live demo
 
 <br />
 
@@ -20,7 +26,7 @@ Open-source app built with GatsbyJS on top of Grayscale design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed**
 
 <br />
 
@@ -32,4 +38,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Grayscale](https://gatsby-html5up-grayscale.appseed.us) provided by **AppSeed**
+[GatsbyJS Grayscale](https://appseed.us/apps/gatsbyjs/gatsby-html5up-grayscale) provided by **AppSeed**
