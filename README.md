@@ -1,7 +1,8 @@
 # [GatsbyJS Grayscale](https://appseed.us/apps/gatsbyjs/gatsby-html5up-grayscale)
 
 Open-source app built with GatsbyJS on top of Grayscale design. 
-**Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-grayscale) project.**
+
+> Originally coded by **[Anubhav Srivastava](https://github.com/anubhavsrivastava/)**.
 
 <br />
 
